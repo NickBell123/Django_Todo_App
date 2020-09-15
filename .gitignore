@@ -1,9 +1,6 @@
 env/
-.vscode/
-__pycache__/
+
+*__pycache__/
 *.sqlite3
 /django_todo/__pycache__
 /.vscode
-/env
-/db.sqlite3
-/todo/__pycache__
